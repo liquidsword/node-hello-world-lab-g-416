@@ -1,5 +1,5 @@
-var helloWorld = function () {
-  return 'Hello World'
+var helloUniverse = function () {
+  return 'Hello Universe'
 }
 
-module.exports = helloWorld
+module.exports = helloUniverse
